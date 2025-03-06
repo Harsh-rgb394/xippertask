@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Paradise",
+        "location": "Goa",
+        "price": 4500
+    },
+    {
+        "id": 2,
+        "name": "Sea Breeze Resort",
+        "location": "Kerala",
+        "price": 5000
+    },
+    {
+        "id": 3,
+        "name": "Mountain View Stay",
+        "location": "Manali",
+        "price": 4200
+    },
+    {
+        "id": 4,
+        "name": "Desert Oasis",
+        "location": "Rajasthan",
+        "price": 3800
+    },
+    {
+        "id": 5,
+        "name": "City Comfort Inn",
+        "location": "Delhi",
+        "price": 3000
+    }
+]
